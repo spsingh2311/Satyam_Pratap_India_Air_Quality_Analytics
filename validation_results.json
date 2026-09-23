@@ -1,0 +1,12 @@
+{
+  "rows": 12042,
+  "columns": 14,
+  "date_min": "2018-01-01",
+  "date_max": "2024-12-31",
+  "duplicate_rows": 0,
+  "original_missing_aqi": 1,
+  "remaining_missing_aqi": 0,
+  "negative_values": 0,
+  "average_aqi": 107.58,
+  "max_aqi": 494
+}
